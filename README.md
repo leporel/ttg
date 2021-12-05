@@ -30,7 +30,7 @@ User must get and open link and approve that he has follow to channel
 
 You need register [twitch app](https://dev.twitch.tv/console/apps) and create [telegram bot](https://t.me/BotFather), add bot to group and give him admin rights  
 TelegramID and groupID you can get via this [bot](https://t.me/myidbot) 
-TwitchID you cat get here
+
 
 Not tested in real world, tested on local machine ```host = localhost ```  
 Probably, if twitch required use https, idk, you need reverse proxy to set up https callback on twitch apps, or improve code to use certs  
